@@ -1,0 +1,12 @@
+.bible-verse {
+    display: inline !important;
+}
+
+.bible-chapter-number {
+    float: left !important;
+    display: inline !important;
+    line-height: 0.5em !important;
+}
+.bible-chapter .bible-verse:first-of-type .bible-verse-number {
+    display: none !important;
+}

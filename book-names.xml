@@ -1,0 +1,68 @@
+<books>
+    <book>Genesis</book>
+    <book>Exodus</book>
+    <book>Leviticus</book>
+    <book>Numbers</book>
+    <book>Deuteronomy</book>
+    <book>Joshua</book>
+    <book>Judges</book>
+    <book>Ruth</book>
+    <book>1 Samuel</book>
+    <book>2 Samuel</book>
+    <book>1 Kings</book>
+    <book>2 Kings</book>
+    <book>1 Chronicles</book>
+    <book>2 Chronicles</book>
+    <book>Ezra</book>
+    <book>Nehemiah</book>
+    <book>Esther</book>
+    <book>Job</book>
+    <book>Psalms</book>
+    <book>Proverbs</book>
+    <book>Ecclesiastes</book>
+    <book>Song of Solomon</book>
+    <book>Isaiah</book>
+    <book>Jeremiah</book>
+    <book>Lamentations</book>
+    <book>Ezekiel</book>
+    <book>Daniel</book>
+    <book>Hosea</book>
+    <book>Joel</book>
+    <book>Amos</book>
+    <book>Obadiah</book>
+    <book>Jonah</book>
+    <book>Micah</book>
+    <book>Nahum</book>
+    <book>Habakkuk</book>
+    <book>Zephaniah</book>
+    <book>Haggai</book>
+    <book>Zechariah</book>
+    <book>Malachi</book>
+    <book>Matthew</book>
+    <book>Mark</book>
+    <book>Luke</book>
+    <book>John</book>
+    <book>Acts</book>
+    <book>Romans</book>
+    <book>1 Corinthians</book>
+    <book>2 Corinthians</book>
+    <book>Galatians</book>
+    <book>Ephesians</book>
+    <book>Philippians</book>
+    <book>Colossians</book>
+    <book>1 Thessalonians</book>
+    <book>2 Thessalonians</book>
+    <book>1 Timothy</book>
+    <book>2 Timothy</book>
+    <book>Titus</book>
+    <book>Philemon</book>
+    <book>Hebrews</book>
+    <book>James</book>
+    <book>1 Peter</book>
+    <book>2 Peter</book>
+    <book>1 John</book>
+    <book>2 John</book>
+    <book>3 John</book>
+    <book>Jude</book>
+    <book>Revelation</book>
+</books>
