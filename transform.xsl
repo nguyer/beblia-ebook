@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="styles.css" />
 
         <!-- Uncomment this line to produce a paragraph style text body instead of the line by line style -->
-        <link rel="stylesheet" href="paragraph.css" />
+        <!-- <link rel="stylesheet" href="paragraph.css" /> -->
       </head>
       <body>
         <!-- Book title -->
